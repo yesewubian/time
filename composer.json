@@ -1,0 +1,14 @@
+{
+    "name": "helper/time",
+    "description": "a class for time",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dearmrli",
+            "email": "dearmrli@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
